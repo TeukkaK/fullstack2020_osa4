@@ -16,7 +16,7 @@ const blog = new Blog({
   title: 'OTSIKKO',
   author: 'KIRJOITTAJA',
   url: 'OSOITE',
-  likes: 69,
+  likes: 80,
 })
 
 
