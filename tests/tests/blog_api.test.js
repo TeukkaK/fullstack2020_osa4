@@ -263,9 +263,9 @@ describe('DELETE blogs', () => {
     const blogsAtStart = await helper.blogsInDB()
 
     const blogToDelete = {
-      title: 'Haisunäätä',
-      author: 'PaavoPesusieni',
-      url: 'Kameli'
+      title: 'Pesukarhu',
+      author: 'Sly Cooper',
+      url: 'konnankopla123'
     }
 
     const returnObject = await api
